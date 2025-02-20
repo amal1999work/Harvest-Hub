@@ -14,8 +14,8 @@
 ## Screenshots
 
 ![Homepage](AgriBusiness_Dashboard/public/img/localhost_3001_.png)
-(AgriBusiness_Dashboard/public/img/localhost_3001_feature.png)
-(AgriBusiness_Dashboard/public/img/localhost_3001_service.png)
+![Homepage](AgriBusiness_Dashboard/public/img/localhost_3001_feature.png)
+![Homepage](AgriBusiness_Dashboard/public/img/localhost_3001_service.png)
 
 
 
